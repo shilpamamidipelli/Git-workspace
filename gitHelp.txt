@@ -1,9 +1,3 @@
-           Move or rename a file, a directory, or a symlink.
-
-       ggiitt--nnootteess(1)
-           Add or inspect object notes.
-
-       ggiitt--ppuullll(1)
            Fetch from and integrate with another repository or a local branch.
 
        ggiitt--ppuusshh(1)
