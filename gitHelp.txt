@@ -1,31 +1,3 @@
-           Fetch from and integrate with another repository or a local branch.
-
-       ggiitt--ppuusshh(1)
-           Update remote refs along with associated objects.
-
-       ggiitt--rraannggee--ddiiffff(1)
-           Compare two commit ranges (e.g. two versions of a branch).
-
-       ggiitt--rreebbaassee(1)
-           Reapply commits on top of another base tip.
-
-       ggiitt--rreesseett(1)
-           Reset current HEAD to the specified state.
-
-       ggiitt--rreessttoorree(1)
-           Restore working tree files.
-
-       ggiitt--rreevveerrtt(1)
-           Revert some existing commits.
-
-       ggiitt--rrmm(1)
-           Remove files from the working tree and from the index.
-
-       ggiitt--sshhoorrttlloogg(1)
-           Summarize _g_i_t _l_o_g output.
-
-       ggiitt--sshhooww(1)
-           Show various types of objects.
 
        ggiitt--ssppaarrssee--cchheecckkoouutt(1)
            Reduce your working tree to a subset of tracked files.
