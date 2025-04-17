@@ -1,11 +1,5 @@
-
-       ggiitt--ssppaarrssee--cchheecckkoouutt(1)
-           Reduce your working tree to a subset of tracked files.
-
-       ggiitt--ssttaasshh(1)
-           Stash the changes in a dirty working directory away.
-
-       ggiitt--ssttaattuuss(1)
+       utehtse 
+ggiitt--ssttaattuuss(1)
            Show the working tree status.
 
        ggiitt--ssuubbmmoodduullee(1)
